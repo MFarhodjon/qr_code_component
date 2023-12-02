@@ -47,13 +47,13 @@ body {
 }
 @media screen and (max-width: 375px) {
   .box-qr {
-    width: 90%;
+    width: 100%;
     height: auto;
     padding-top: 20px;
   }
 
   .qr-picture {
-    width: 90%;
+    width: 100%;
     height: auto;
   }
 
